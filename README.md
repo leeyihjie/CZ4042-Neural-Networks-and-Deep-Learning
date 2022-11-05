@@ -1,2 +1,2 @@
-# CZ4042-Neural-Networks-and-Deep-Learning
+# CZ4042-Neural-Networks-&-Deep-Learning
 Assignments
